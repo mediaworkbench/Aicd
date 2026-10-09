@@ -1,12 +1,7 @@
 # Aicd
 
-An acid pattern MIDI generator Max for Live device based on a maximum likelihood n-gram model.
+This is a fork of https://github.com/mganss/Aicd which is brilliant of an acid pattern MIDI generator Max for Live device based on a maximum likelihood n-gram model.
 
-![Aicd screenshot](https://github.com/mganss/Aicd/raw/master/screenshot.png)
-
-[Demo on YouTube](https://youtu.be/y58dpdHuVms)
-
-Download under [releases](https://github.com/mganss/Aicd/releases) or at [maxforlive.com](http://maxforlive.com/library/device/5158/aicd)
 
 ## Features
 
